@@ -35,6 +35,6 @@ From this analysis I have found that
 For detailed analysis please check jupyter notebook.
 
 
-![Screenshot](.../master/A-Data-Science-Blog-Post/newplot (3).png)
+![Screenshot](.../master/A-Data-Science-Blog-Post/newplot(3).png)
 
 
