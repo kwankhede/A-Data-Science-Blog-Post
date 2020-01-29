@@ -24,6 +24,8 @@ In this project I am going to analyze previous years surveys and I will try to g
 # GENDER
 1. Gender proportion in development community from 2016 to 2019
 
+![zxc](https://github.com/kwankhede/A-Data-Science-Blog-Post/blob/master/abcd.png)
+
 # Data Source
 The survey data is available here: https://insights.stackoverflow.com/survey
 
