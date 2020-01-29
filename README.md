@@ -4,6 +4,10 @@ Udacity Project 1
 In this project I am going to analyze previous years surveys and I will try to get some useful trends, which I can use for planning my long dream of working in the developer industry. There are students and working professionals like me who are interested in Data science, ML, developing and programming jobs, so I want to analyze these surveys to know about the history and trends in the developers community. Particularly I would like to know about following 3 things:
 
 
+# Data Source
+The survey data is available here: https://insights.stackoverflow.com/survey
+
+
  # TOP PROGRAMMING LANGUAGES
 1. Which programming languages had most demand in 2018 & 2019
 2. A trend of programming languages from 2016 to 2019
@@ -26,14 +30,13 @@ In this project I am going to analyze previous years surveys and I will try to g
 
 ![zxc](https://github.com/kwankhede/A-Data-Science-Blog-Post/blob/master/abcd.png)
 
-# Data Source
-The survey data is available here: https://insights.stackoverflow.com/survey
 
 
-I used python as a medium to do this data analysis and use various python packages: Like :
+# I used python as a medium to do this data analysis and use various python packages: Like :
 1.	Pandas
 2.	Numpy
-3.	Matplotlib| 4)Plotly
+3.	Matplotlib| 
+4. Plotly
 
 
 # Conclusion: 
