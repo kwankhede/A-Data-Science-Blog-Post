@@ -1,5 +1,11 @@
-# A-Data-Science-Blog-Post
+# A-Data-Science-Blog-Post 
 Udacity Project 1
+
+
+# My blog on Medium : https://medium.com/@kapilwankhede22/insights-of-the-worldwide-developers-community-c5555667ef0e
+
+
+
 
 In this project I am going to analyze previous years surveys and I will try to get some useful trends, which I can use for planning my long dream of working in the developer industry. There are students and working professionals like me who are interested in Data science, ML, developing and programming jobs, so I want to analyze these surveys to know about the history and trends in the developers community. Particularly I would like to know about following 3 things:
 
