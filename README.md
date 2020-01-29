@@ -19,7 +19,8 @@ In this project I am going to analyze previous years surveys and I will try to g
 2. Gender Proportion in Top 3 Developer Types (Year 2019)
 3. Popular Languages In Top 3 Developer Types in 2019)
 
-[abc](https://github.com/kwankhede/A-Data-Science-Blog-Post/blob/master/newplot%20(8).png)
+![abc](https://github.com/kwankhede/A-Data-Science-Blog-Post/blob/master/newplot%20(8).png)
+
 # GENDER
 1. Gender proportion in development community from 2016 to 2019
 
