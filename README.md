@@ -9,11 +9,17 @@ In this project I am going to analyze previous years surveys and I will try to g
 2. A trend of programming languages from 2016 to 2019
 3. Popular programming languages amongst students and developers in 2019
 
+![Screenshot](https://github.com/kwankhede/A-Data-Science-Blog-Post/blob/master/newplot%20(3).png)
+
+
+
+
 # TOP DEVELOPER ROLES
 1. Top 3 developer roles in 2018 and 2019
 2. Gender Proportion in Top 3 Developer Types (Year 2019)
 3. Popular Languages In Top 3 Developer Types in 2019)
 
+[abc](https://github.com/kwankhede/A-Data-Science-Blog-Post/blob/master/newplot%20(8).png)
 # GENDER
 1. Gender proportion in development community from 2016 to 2019
 
@@ -33,8 +39,5 @@ From this analysis I have found that
 2.	Front-end development, Back-end development, and Full-stack development are the main three development jobs in the IT industry.
 3.	IT development is a male dominant industry, so we need more diversity in this industry.
 For detailed analysis please check jupyter notebook.
-
-
-![Screenshot](https://github.com/kwankhede/A-Data-Science-Blog-Post/blob/master/newplot%20(3).png)
 
 
