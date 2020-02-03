@@ -1,18 +1,24 @@
-# A-Data-Science-Blog-Post 
-Udacity Project 1
+### A-Data-Science-Blog-Post 
+**Udacity Project 1**
 
 
-# My blog on Medium:**
+### My blog on Medium:**
 https://medium.com/@kapilwankhede22/insights-of-the-worldwide-developers-community-c5555667ef0e
 
 In this project I am going to analyze previous years surveys and I will try to get some useful trends, which I can use for planning my long dream of working in the developer industry. There are students and working professionals like me who are interested in Data science, ML, developing and programming jobs, so I want to analyze these surveys to know about the history and trends in the developers community. Particularly I would like to know about following 3 things:
 
 
-# Data Source
+### Data Source
 The survey data is available here: https://insights.stackoverflow.com/survey
 
+### I havd used python as a medium to do this data analysis and use various python packages: Like :
+1.	Pandas
+2.	Numpy
+3.	Matplotlib| 
+4. Plotly
 
- # TOP PROGRAMMING LANGUAGES
+
+### TOP PROGRAMMING LANGUAGES
 1. Which programming languages had most demand in 2018 & 2019
 2. A trend of programming languages from 2016 to 2019
 3. Popular programming languages amongst students and developers in 2019
@@ -22,28 +28,23 @@ The survey data is available here: https://insights.stackoverflow.com/survey
 
 
 
-# TOP DEVELOPER ROLES
+### TOP DEVELOPER ROLES
 1. Top 3 developer roles in 2018 and 2019
 2. Gender Proportion in Top 3 Developer Types (Year 2019)
 3. Popular Languages In Top 3 Developer Types in 2019)
 
 ![abc](https://github.com/kwankhede/A-Data-Science-Blog-Post/blob/master/newplot%20(8).png)
 
-# GENDER
+### GENDER
 1. Gender proportion in development community from 2016 to 2019
 
 ![zxc](https://github.com/kwankhede/A-Data-Science-Blog-Post/blob/master/abcd.png)
 
 
 
-# I used python as a medium to do this data analysis and use various python packages: Like :
-1.	Pandas
-2.	Numpy
-3.	Matplotlib| 
-4. Plotly
 
 
-# Conclusion: 
+### Conclusion: 
 From this analysis I have found that
 1.	JavaScript has been the top most used programing language in the developer community. The use of Python has been increasing considerably among developers.
 2.	Front-end development, Back-end development, and Full-stack development are the main three development jobs in the IT industry.
